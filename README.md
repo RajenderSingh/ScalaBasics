@@ -1,0 +1,2 @@
+# ScalaBasics
+Scala Basic Sample
